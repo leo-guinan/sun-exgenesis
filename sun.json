@@ -1,0 +1,382 @@
+{
+  "id": "sun-exgenesis",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@exgenesis Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_7234d1396e79",
+    "display_name": "exgenesis",
+    "user_id": "@exgenesis",
+    "description": "Community Archive-derived proof-of-search sun for @exgenesis.",
+    "document_count": 37226,
+    "word_count": 444226,
+    "active_days": 3787,
+    "emissions": [
+      "Que",
+      "Para",
+      "Mas",
+      "Diogoramooos",
+      "Nosilverv",
+      "Uma"
+    ],
+    "generated_at": "2026-06-27T16:01:09.036291+00:00",
+    "color": "#f59e0b",
+    "mass": 13.004
+  },
+  "planets": [
+    {
+      "id": "planet_b6499e16a849",
+      "name": "Que",
+      "summary": "Archive cluster around que: 33806 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "que",
+        "think",
+        "good",
+        "time",
+        "don"
+      ],
+      "artifacts": [
+        {
+          "id": "art_72f17b9b14cf",
+          "title": "Que receipt from 2024-12-06",
+          "excerpt": "Slop is the concept we were missing. Slop is not based. It’s not edifying. Slop is unredeemable.\n\nThings that are slop:\n\n- yt vids of kids playing w toys\n- sour patch oreos \n- city center gift shops\n- evangelical “churches”\n- phone case stores\n- Temu\n- happy meal toys",
+          "source_document_id": "1865118300381778430",
+          "timestamp": "2024-12-06T19:37:09+00:00",
+          "url": "https://x.com/exgenesis/status/1865118300381778430",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: que, think, good, time."
+        },
+        {
+          "id": "art_591029909e2d",
+          "title": "Que receipt from 2023-03-24",
+          "excerpt": "IT'S SO BACK\n\nWE'RE SO OVER https://t.co/dlHN1gyVzD",
+          "source_document_id": "1639235988382777345",
+          "timestamp": "2023-03-24T12:01:29+00:00",
+          "url": "https://x.com/exgenesis/status/1639235988382777345",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: que, think, good, time."
+        },
+        {
+          "id": "art_feb4506f9606",
+          "title": "Que receipt from 2023-09-09",
+          "excerpt": "hate to say this but affirmations work bc they hack predictive processing",
+          "source_document_id": "1700523219772387372",
+          "timestamp": "2023-09-09T14:55:04+00:00",
+          "url": "https://x.com/exgenesis/status/1700523219772387372",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: que, think, good, time."
+        },
+        {
+          "id": "art_b44f7801a64e",
+          "title": "Que receipt from 2023-09-10",
+          "excerpt": "ok but can anyone explain where all that rizz is coming from? Why is she so compelling?? How does it work??? https://t.co/uVWpkmw4Rw",
+          "source_document_id": "1700918281488494999",
+          "timestamp": "2023-09-10T17:04:54+00:00",
+          "url": "https://x.com/exgenesis/status/1700918281488494999",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: que, think, good, time."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9513b499fbad",
+      "proof_score": 1,
+      "mass": 38.721,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_ca8738b74bc9",
+      "name": "Para",
+      "summary": "Archive cluster around para: 772 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "para",
+        "uma",
+        "mas",
+        "mais",
+        "fazer"
+      ],
+      "artifacts": [
+        {
+          "id": "art_e60da744d595",
+          "title": "Para receipt from 2018-10-13",
+          "excerpt": "- menos 200 paus nas propinas;\n- menos 5% na factura da luz\n- livros da escola grátis\n- iva sobre espectáculos culturais de 13% para 6%",
+          "source_document_id": "1051230513661431808",
+          "timestamp": "2018-10-13T21:57:40+00:00",
+          "url": "https://x.com/exgenesis/status/1051230513661431808",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: para, uma, mas, mais."
+        },
+        {
+          "id": "art_1b596324cb63",
+          "title": "Para receipt from 2018-12-23",
+          "excerpt": "ATENÇÃO ARTISTAS GRÁFICOS Estou à procura de alguém para ilustrar a capa do Diferencial, o jornal de estudantes do Técnico.  Terão muita autonomia, mandem DM se estiverem a fim.\n\nhttps://t.co/b8MDvjwrjX \n\nRTs tb são apreciados &lt;3",
+          "source_document_id": "1076974995526565888",
+          "timestamp": "2018-12-23T22:57:02+00:00",
+          "url": "https://x.com/exgenesis/status/1076974995526565888",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: para, uma, mas, mais."
+        },
+        {
+          "id": "art_316c462e18c7",
+          "title": "Para receipt from 2019-08-22",
+          "excerpt": "@BernardoMBlanco Se o PS tivesse activamente enfraquecido sistemas de resposta a incêndios, e se tivesse mostrado caridoso para com a desflorestação amazónica então sim.",
+          "source_document_id": "1164498026842525702",
+          "timestamp": "2019-08-22T11:22:19+00:00",
+          "url": "https://x.com/exgenesis/status/1164498026842525702",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: para, uma, mas, mais."
+        },
+        {
+          "id": "art_a05f218e0d59",
+          "title": "Para receipt from 2018-09-22",
+          "excerpt": "Não sei se sabem, mas estou em Bruxelas para o Freedom Not Fear, um fim-de-semana de discussões sobre direitos digitais, privacidade e activismo. #FNF2018 Está a ser esgotante, muito para digerir; mas é fantástico estar ao pé de tanta gente tão corajosa e apaixonada",
+          "source_document_id": "1043536290183045120",
+          "timestamp": "2018-09-22T16:23:34+00:00",
+          "url": "https://x.com/exgenesis/status/1043536290183045120",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: para, uma, mas, mais."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_154a4255f23a",
+      "proof_score": 1,
+      "mass": 27.789,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_c65c3146da3f",
+      "name": "Mas",
+      "summary": "Archive cluster around mas: 576 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "mas",
+        "uma",
+        "mais",
+        "tenho",
+        "por"
+      ],
+      "artifacts": [
+        {
+          "id": "art_815943fd18de",
+          "title": "Mas receipt from 2017-05-10",
+          "excerpt": "O Rocha estava muito triste há uns dias mas entretanto a sua vida \n\ndeu umas voltas.",
+          "source_document_id": "862437772862386178",
+          "timestamp": "2017-05-10T22:42:43+00:00",
+          "url": "https://x.com/exgenesis/status/862437772862386178",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: mas, uma, mais, tenho."
+        },
+        {
+          "id": "art_29020664a109",
+          "title": "Mas receipt from 2018-04-01",
+          "excerpt": "Os Palestinianos estão a lutar com fisgas contra bombas e metrelhadoras, mas os jornais chamam-lhes \"confrontos\"",
+          "source_document_id": "980414285607301120",
+          "timestamp": "2018-04-01T11:59:15+00:00",
+          "url": "https://x.com/exgenesis/status/980414285607301120",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: mas, uma, mais, tenho."
+        },
+        {
+          "id": "art_e6f98b530f0b",
+          "title": "Mas receipt from 2018-04-14",
+          "excerpt": "Podia estar giro mas pelo menos estou mentalmente estável https://t.co/6yrefN2I98",
+          "source_document_id": "985245957729251329",
+          "timestamp": "2018-04-14T19:58:35+00:00",
+          "url": "https://x.com/exgenesis/status/985245957729251329",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: mas, uma, mais, tenho."
+        },
+        {
+          "id": "art_c51d4b0bc39a",
+          "title": "Mas receipt from 2018-01-14",
+          "excerpt": "Só queria estar em NYC com coca e strippers mas nãaaaaaaaaaaaaaaaaao a minha mãe não me comprou bitcoins a 25€",
+          "source_document_id": "952503532862738432",
+          "timestamp": "2018-01-14T11:31:53+00:00",
+          "url": "https://x.com/exgenesis/status/952503532862738432",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: mas, uma, mais, tenho."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_45c78127b39f",
+      "proof_score": 0.986,
+      "mass": 26.725,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_611168cf80ab",
+      "name": "Diogoramooos",
+      "summary": "Archive cluster around diogoramooos: 799 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "diogoramooos",
+        "brewmeist3r",
+        "nitewolf1396",
+        "duartealbano",
+        "thezerofox"
+      ],
+      "artifacts": [
+        {
+          "id": "art_31e3417e9aec",
+          "title": "Diogoramooos receipt from 2014-10-14",
+          "excerpt": "@Diogoramooos @NiteWolf1396 @BrewMeist3r @sk8thest8 http://t.co/W18KDMd4KN",
+          "source_document_id": "521951899118206976",
+          "timestamp": "2014-10-14T09:13:24+00:00",
+          "url": "https://x.com/exgenesis/status/521951899118206976",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: diogoramooos, brewmeist3r, nitewolf1396, duartealbano."
+        },
+        {
+          "id": "art_13b6fd87e44d",
+          "title": "Diogoramooos receipt from 2015-01-05",
+          "excerpt": "Death Grips - Fashion Week (Instrumentals) - Runw…: http://t.co/4P2dEwjnBj @Diogoramooos @TheZeroFox @sk8thest8  aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "source_document_id": "552010593990086656",
+          "timestamp": "2015-01-05T07:55:56+00:00",
+          "url": "https://x.com/exgenesis/status/552010593990086656",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: diogoramooos, brewmeist3r, nitewolf1396, duartealbano."
+        },
+        {
+          "id": "art_c43d81698fe5",
+          "title": "Diogoramooos receipt from 2014-11-11",
+          "excerpt": "LAN PARTY SÁBADO 15 MY PLACE @NiteWolf1396 @Babab0y @TheZeroFox @Diogoramooos @lavadinhooo @BrewMeist3r e toda a gente do Sexual Healing",
+          "source_document_id": "531965126417842178",
+          "timestamp": "2014-11-11T00:22:24+00:00",
+          "url": "https://x.com/exgenesis/status/531965126417842178",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: diogoramooos, brewmeist3r, nitewolf1396, duartealbano."
+        },
+        {
+          "id": "art_9054256d7eee",
+          "title": "Diogoramooos receipt from 2014-11-13",
+          "excerpt": "@TheZeroFox @sk8thest8 @Diogoramooos 1. Why do you even care so much. 2.Agora vou ouvir a minha banda de black metal preferida, os metallica",
+          "source_document_id": "532893097391579137",
+          "timestamp": "2014-11-13T13:49:49+00:00",
+          "url": "https://x.com/exgenesis/status/532893097391579137",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: diogoramooos, brewmeist3r, nitewolf1396, duartealbano."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_6e0843a4775e",
+      "proof_score": 1,
+      "mass": 25.839,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_cdae191b322d",
+      "name": "Nosilverv",
+      "summary": "Archive cluster around nosilverv: 910 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "nosilverv",
+        "visakanv",
+        "think",
+        "mlegls",
+        "tyleralterman"
+      ],
+      "artifacts": [
+        {
+          "id": "art_b6c0c5af8c18",
+          "title": "Nosilverv receipt from 2020-10-28",
+          "excerpt": "A THREADHELPER 🧵FROM @nosilverv &amp; @ExGenesis \n\nTH right now is a humble intervention on the Twitter experience.\nAt a human level, it saves you search time and surprises you with relevant tweets\nAt a system level, it redirects the flow of attention to IRRIGATE THE PAST.\n\n🧵1/17",
+          "source_document_id": "1321517532910653440",
+          "timestamp": "2020-10-28T18:21:47+00:00",
+          "url": "https://x.com/exgenesis/status/1321517532910653440",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nosilverv, visakanv, think, mlegls."
+        },
+        {
+          "id": "art_dfdf71734b38",
+          "title": "Nosilverv receipt from 2023-07-18",
+          "excerpt": "msg from @nosilverv \n\n\"…got put into Twitter jail as you might've noticed lol. Trying to get out but didn't even receive an email telling me why that I could appeal. Do you happen to know anyone that could help out, or tips to reverse this? … (am fucking dying out here lmao)\" https://t.co/U2DYBSLbl7",
+          "source_document_id": "1681371777627193356",
+          "timestamp": "2023-07-18T18:34:04+00:00",
+          "url": "https://x.com/exgenesis/status/1681371777627193356",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nosilverv, visakanv, think, mlegls."
+        },
+        {
+          "id": "art_b9138233c3b5",
+          "title": "Nosilverv receipt from 2024-09-12",
+          "excerpt": "people I would be EXCITED if they uploaded their archives:\n\n@visakanv \n@RomeoStevens76\n@algekalipso\n@gptbrooke\n@literalbanana\n@deepfates\n@tszzl\n@Aella_Girl\n@gwern\n@nosilverv\n@nickcammarata\n@Malcolm_Ocean\n@eigenrobot \n@johnsonmxe\n@RichDecibels \n@literalbanana \n@selentelechia https://t.co/k4ikDpGwBZ",
+          "source_document_id": "1834373918859165805",
+          "timestamp": "2024-09-12T23:29:57+00:00",
+          "url": "https://x.com/exgenesis/status/1834373918859165805",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nosilverv, visakanv, think, mlegls."
+        },
+        {
+          "id": "art_42426fdbbd48",
+          "title": "Nosilverv receipt from 2023-07-18",
+          "excerpt": "@mechanical_monk @nosilverv Personally I’m advocating for a PunishedVoices alt",
+          "source_document_id": "1681376496567320602",
+          "timestamp": "2023-07-18T18:52:49+00:00",
+          "url": "https://x.com/exgenesis/status/1681376496567320602",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nosilverv, visakanv, think, mlegls."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e6e815b80884",
+      "proof_score": 1,
+      "mass": 28.419,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_b69dad658a2e",
+      "name": "Uma",
+      "summary": "Archive cluster around uma: 363 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "uma",
+        "por",
+        "ser",
+        "mais",
+        "ter"
+      ],
+      "artifacts": [
+        {
+          "id": "art_db131a5a3a61",
+          "title": "Uma receipt from 2018-03-07",
+          "excerpt": "Sinto uma grande ligação com o José Rodrigues dos Santos pq ambos temos o mesmo impulso de pesquisar trivialidades históricas durante horas e depois escrever mal sobre isso.",
+          "source_document_id": "971315572855144448",
+          "timestamp": "2018-03-07T09:24:13+00:00",
+          "url": "https://x.com/exgenesis/status/971315572855144448",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: uma, por, ser, mais."
+        },
+        {
+          "id": "art_f9a2198657b1",
+          "title": "Uma receipt from 2018-07-30",
+          "excerpt": "Fiquem comigo e a minha irmã a ser uma árvore https://t.co/cWUHNlDOvI",
+          "source_document_id": "1023755833769746432",
+          "timestamp": "2018-07-30T02:23:05+00:00",
+          "url": "https://x.com/exgenesis/status/1023755833769746432",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: uma, por, ser, mais."
+        },
+        {
+          "id": "art_f06e2c59a74f",
+          "title": "Uma receipt from 2018-03-12",
+          "excerpt": "ei ó pessoal isto é só uma couve #fractais https://t.co/HyrNqgGDtN",
+          "source_document_id": "972999431447556099",
+          "timestamp": "2018-03-12T00:55:16+00:00",
+          "url": "https://x.com/exgenesis/status/972999431447556099",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: uma, por, ser, mais."
+        },
+        {
+          "id": "art_4879c3a70db2",
+          "title": "Uma receipt from 2018-08-21",
+          "excerpt": "Como assim o Basco não é uma língua indo-europeia? https://t.co/9AzH0PnYWJ",
+          "source_document_id": "1031933366113914880",
+          "timestamp": "2018-08-21T15:57:41+00:00",
+          "url": "https://x.com/exgenesis/status/1031933366113914880",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: uma, por, ser, mais."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9593d1f08105",
+      "proof_score": 0.94,
+      "mass": 25.335,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}

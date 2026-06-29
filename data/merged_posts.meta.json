@@ -9,8 +9,6 @@
   "id_count": 39292,
   "id_set_sha256": "b4b68d077bee77f776e1dbcfc98484d69cba59226098e9e3a6291c7d89c03d9b",
   "merged_posts_sha256": "f077ac1e7c066f807bb76d74f6293eca6677662d3e1c53c0faa328a71e290d89",
-  "update_paths": [
-    "data/updates/2026-06-29T184218.771556Z0000.tweets.jsonl"
-  ],
-  "generated_at": "2026-06-29T18:42:24.538708+00:00"
+  "update_paths": [],
+  "generated_at": "2026-06-29T18:42:50.913717+00:00"
 }
